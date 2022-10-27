@@ -6,6 +6,7 @@ The implementations of DATA7703 project: A Weighted Recurrent Framework for 
 2. "data_clearning.py" for 24-hour-structure dataset. <br>
 3. Then, you can run any model. <br>
 
+Or you can directly train these models: <br>
 - "main_b_lstm.py" for the proposed Weighted-LSTM
 - "main_lstm.py" for the single LSTM
 - "main_b_rnn.py" for the proposed Weighted-RNN
